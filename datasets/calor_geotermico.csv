@@ -1,0 +1,202 @@
+ID,Point,x,,y,U (ppm) Th,(ppm),K (%),Rock Type,Density (kgm 3),"Heat
+production (μW m−3)",Litostratigraphic unit
+100,USPB4,-105.4869,,24.968819,4.8,10.2,3.1,Ash flow tuff,2461.33,2.03,Garame Group
+81,USP67,-105.4812,,24.972702,6.80,9.70,4.40,Limestone,2609.91,2.74,Garame Group
+68,USP54,-105.5253,,24.986643,3.30,9.40,4.00,Lithic ignimbrite,2330.01,1.62,Garame Group
+70,USP56,-105.5238,,24.979462,6.50,8.00,3.40,Quartz vein,2449.40,2.31,Garame Group
+69,USP55,-105.5417,,24.974102,4.50,7.50,3.30,Sandstone,2550.65,1.88,Garame Group
+83,USP69,-105.4860,,24.968210,2.60,6.00,3.14,Sandstone,2550.65,1.30,Garame Group
+84,USP6b,-105.4882,,24.967153,8.30,27.20,3.70,Sandstone,2550.65,4.12,Garame Group
+86,USP71,-105.5246,,24.965385,1255.00,316.00,10.20,Sandstone,2550.65,326.28,Garame Group
+87,USP71b,-105.5246,,24.965385,62.60,6.90,4.60,Sandstone,2550.65,16.06,Garame Group
+97,USPB1,-105.4930,,24.965224,3,7.3,2.9,Sandstone,2550.65,1.46,Garame Group
+107,USPB11,-105.5215,,24.967479,5.7,7.8,3.8,Sandstone,2550.65,2.23,Garame Group
+82,USP68,-105.4831,,24.971994,3.90,12.00,3.00,Sandstone and ash flow tuff,2550.70,2.00,Garame Group
+85,USP70,-105.5013,,24.969882,4.50,4.20,3.50,Sandstone and ash flow tuff,2550.70,1.68,Garame Group
+99,USPB3,-105.4891,,24.967144,3.8,9.9,3.9,Shales and sandstone,2550.70,1.92,Garame Group
+101,USPB5,-105.5246,,24.965385,142,8,5.1,Shales and sandstone,2550.70,35.46,Garame Group
+102,USPB6,-105.5246,,24.965385,27.5,8.3,4.9,Shales and sandstone,2550.70,7.65,Garame Group
+103,USPB7,-105.5246,,24.965385,14.8,8.2,5.4,Shales and sandstone,2550.70,4.61,Garame Group
+104,USPB8,-105.5246,,24.965385,42.4,9.2,4.7,Shales and sandstone,2550.70,11.31,Garame Group
+105,USPB9,-105.5246,,24.965385,717.9,18.2,7.4,Shales and sandstone,2550.70,176.17,Garame Group
+98,USPB2,-105.4926,,24.965013,7,9,4,Silstone,2550.70,2.64,Late Cretaceous Granodiorite
+106,USPB10,-105.5234,,24.968749,3.2,11.5,4.7,Silstone,2550.70,1.95,Late Cretaceous Granodiorite
+165,USPB67,-105.1591,,24.785463,3.6,15.7,3.5,Granodiorite,2589.42,2.24,Late Cretaceous Granodiorite
+166,USPB68,-105.1591,,24.785463,3.1,15.5,3.7,Granodiorite,2589.42,2.13,Late Cretaceous Granodiorite
+167,USPB69,-105.1591,,24.785463,5.4,9.6,3,Granodiorite,2589.42,2.24,Late Cretaceous Granodiorite
+15,USP9b,-105.5257,,25.089110,5.00,18.20,2.20,Andesite,2484.50,2.53,Volcanosedymentary succession
+16,USP10a,-105.5257,,25.089110,4.60,16.20,3.10,Andesite,2484.50,2.39,Volcanosedymentary succession
+62,USP48,-105.3206,,25.257204,3.40,12.50,2.90,Andesite,2484.50,1.85,Volcanosedymentary succession
+71,USP57,-105.4626,,24.953382,4.10,10.90,3.70,Andesite,2484.50,1.98,Volcanosedymentary succession
+72,USP58,-105.4288,,24.748475,3.60,15.60,3.20,Andesite,2484.50,2.12,Volcanosedymentary succession
+89,USP73,-105.4349,,24.728565,4.30,14.20,3.10,Andesite,2484.50,2.19,Volcanosedymentary succession
+121,USPB25,-105.4348,,24.728684,3.9,12.2,3,Andesite,2484.50,1.96,Volcanosedymentary succession
+122,USPB26,-105.4218,,24.737453,3.4,10.9,1.6,Andesite,2484.50,1.64,Volcanosedymentary succession
+135,USPB39,-105.7824,,25.284170,4.6,11.9,7.3,Andesite,2484.50,2.48,Volcanosedymentary succession
+136,USPB40,-105.7824,,25.284170,6.8,11.9,6.5,Andesite,2484.50,2.93,Volcanosedymentary succession
+137,USPB41,-105.7824,,25.284170,4.3,11.8,13.8,Andesite,2484.50,2.96,Volcanosedymentary succession
+157,USPB59,-105.5044,,25.062626,2,7.4,1.5,Andesite,2484.50,1.07,Volcanosedymentary succession
+158,USPB60,-105.5044,,25.062626,3.5,7.3,1.9,Andesite,2484.50,1.46,Volcanosedymentary succession
+171,USPB73,-105.2080,,24.933200,10,32,4,Andesite,2484.50,4.75,Volcanosedymentary succession
+172,USPB74,-105.2080,,24.933200,10.7,39.1,3.4,Andesite,2484.50,5.31,Volcanosedymentary succession
+173,USPB75,-105.2080,,24.933200,12.3,32.3,4.1,Andesite,2484.50,5.32,Volcanosedymentary succession
+49,USP35b,-105.5433,,25.069759,9.40,34.80,4.60,Andesite,2484.50,4.83,Volcanosedymentary succession
+50,USP36,-105.5433,,25.069759,11.10,41.70,4.10,Andesite,2484.50,5.63,Volcanosedymentary succession
+77,USP63,-105.4201,,24.761869,8.70,30.00,5.30,Ash flow tuff,2461.33,4.38,Volcanosedymentary succession
+73,USP59,-105.4259,,24.700704,18.90,11.70,2.50,Conglomerate,2367.70,5.18,Volcanosedymentary succession
+75,USP61,-105.4201,,24.761869,4.80,14.80,2.60,Conglomerate,2367.70,2.19,Volcanosedymentary succession
+76,USP62,-105.4201,,24.761869,4.30,16.80,1.10,Conglomerate,2367.70,2.08,Volcanosedymentary succession
+88,USP72,-105.4223,,24.741917,2.90,9.90,2.50,Conglomerate,2367.70,1.46,Volcanosedymentary succession
+67,USP53,-105.4954,,24.999753,6.90,19.90,3.10,Conglomerates and sandstones,2367.70,3.02,Volcanosedymentary succession
+110,USPB14,-105.5217,,25.062961,6.5,16.6,2.8,Conglomerates and sandstones,2367.70,2.70,Volcanosedymentary succession
+51,USP37,-105.5470,,25.071745,15.70,52.30,5.60,Dacite,2438.90,7.39,Volcanosedymentary succession
+53,USP39,-105.5372,,25.065813,10.90,35.60,1.10,Dacite,2438.90,4.85,Volcanosedymentary succession
+52,USP38,-105.5376,,25.066344,15.60,42.40,5.60,Felsic lava,2438.90,6.74,Volcanosedymentary succession
+47,USP34b,-105.5085,,25.051641,5.20,17.50,2.50,Ignimbrite,2330.01,2.40,Volcanosedymentary succession
+117,USPB21,-105.4665,,24.704371,2.5,12.8,2.5,Ignimbrite,2330.01,1.52,Volcanosedymentary succession
+116,USPB20,-105.4665,,24.704371,2.6,14.4,1.7,Lithic ignimbrite,2330.01,1.57,Volcanosedymentary succession
+119,USPB23,-105.4470,,24.718800,3.4,8.5,3,Lithic ignimbrite,2330.01,1.50,Volcanosedymentary succession
+161,USPB63,-105.5064,,25.064410,6.9,15.4,3.2,Lithic ignimbrite,2330.01,2.71,Volcanosedymentary succession
+162,USPB64,-105.5064,,25.064410,5.6,14.8,3.6,Lithic ignimbrite,2330.01,2.42,Volcanosedymentary succession
+163,USPB65,-105.5064,,25.064410,5.7,17.7,3.7,Lithic ignimbrite,2330.01,2.62,Volcanosedymentary succession
+146,USPB49,-105.6615,,25.056546,4.7,14.6,3.8,Ash flow tuff,2461.33,2.35,Pyroclastic succession
+150,USPB53,-105.7777,,25.046560,4.6,24.1,5.1,Ash flow tuff,2461.33,3.03,Pyroclastic succession
+151,USPB54,-105.7777,,25.046560,4.1,22.5,7,Ash flow tuff,2461.33,2.98,Pyroclastic succession
+152,USPB54B,-105.7777,,25.046560,3.2,19.2,5.9,Ash flow tuff,2461.33,2.46,Pyroclastic succession
+164,USPB66,-105.4051,,24.896393,7.3,28.6,6.7,Ash flow tuff,2461.33,4.09,Pyroclastic succession
+174,USPB76,-105.2183,,24.912140,7.8,26.3,4.1,Ash flow tuff,2461.33,3.84,Pyroclastic succession
+175,USPB77,-105.2183,,24.912140,8.9,28.5,5.2,Ash flow tuff,2461.33,4.33,Pyroclastic succession
+176,USPB78,-105.2183,,24.912140,9.9,26.1,5.7,Ash flow tuff,2461.33,4.45,Pyroclastic succession
+177,USPB79,-105.6224,,25.319502,4.2,15.8,6.2,Ash flow tuff,2461.33,2.51,Pyroclastic succession
+178,USPB80,-105.6224,,25.319502,5.6,15,7.2,Ash flow tuff,2461.33,2.87,Pyroclastic succession
+179,USPB81,-105.6224,,25.319502,5.5,13.7,6,Ash flow tuff,2461.33,2.67,Pyroclastic succession
+64,USP50,-105.3148,,25.284420,6.70,12.10,4.00,Biotite-bearing ignimbrite,2330.01,2.53,Pyroclastic succession
+115,USPB19,-105.4517,,25.232571,2.5,15.3,3,Biotite-bearing ignimbrite,2330.01,1.71,Pyroclastic succession
+120,USPB24,-105.4501,,24.718799,4.2,8.8,2.3,Biotite-bearing ignimbrite,2330.01,1.64,Pyroclastic succession
+192,USPB93,-105.2997,,25.062902,11.8,20.2,2.2,Conglomerates and sandstones,2367.70,4.07,Pyroclastic succession
+193,USPB94,-105.2997,,25.062902,15.4,24.1,4,Conglomerates and sandstones,2367.70,5.26,Pyroclastic succession
+194,USPB95,-105.2997,,25.062902,14.5,25.1,4.1,Conglomerates and sandstones,2367.70,5.13,Pyroclastic succession
+21,USP13,-105.5481,,25.156931,6.00,17.10,5.60,Crystal rich ignimbrite,2330.01,2.80,Pyroclastic succession
+33,USP23,-105.1531,,25.188210,5.50,9.10,1.70,Crystal rich ignimbrite,2330.01,1.90,Pyroclastic succession
+37,USP26,-105.1355,,25.223872,6.40,21.30,4.10,Crystal rich ignimbrite,2330.01,3.02,Pyroclastic succession
+91,USP75,-105.4802,,24.700385,10.80,44.60,4.20,Crystal rich ignimbrite,2330.01,5.40,Pyroclastic succession
+93,USP78,-105.6217,,24.886390,5.00,12.50,3.60,Crystal rich ignimbrite,2330.01,2.15,Pyroclastic succession
+129,USPB33,-105.2849,,25.411788,6.2,32.8,4.6,Crystal rich ignimbrite,2330.01,3.70,Pyroclastic succession
+130,USPB34,-105.2849,,25.411788,9.5,36.5,5.1,Crystal rich ignimbrite,2330.01,4.70,Pyroclastic succession
+131,USPB35,-105.2849,,25.411788,7.4,35.8,5,Crystal rich ignimbrite,2330.01,4.18,Pyroclastic succession
+183,USPB84,-105.8174,,25.316750,4.5,20.6,3.9,Crystal rich ignimbrite,2330.01,2.54,Pyroclastic succession
+184,USPB85,-105.8174,,25.316750,4.2,16.8,2.9,Crystal rich ignimbrite,2330.01,2.17,Pyroclastic succession
+185,USPB86,-105.8174,,25.316750,5.7,18.9,2.7,Crystal rich ignimbrite,2330.01,2.61,Pyroclastic succession
+189,USPB90,-105.2840,,24.713231,6.6,29.2,4.5,Crystal rich ignimbrite,2330.01,3.57,Pyroclastic succession
+190,USPB91,-105.2840,,24.713231,6.3,24.5,4.7,Crystal rich ignimbrite,2330.01,3.24,Pyroclastic succession
+191,USPB92,-105.2840,,24.713231,7,28.9,4.7,Crystal rich ignimbrite,2330.01,3.66,Pyroclastic succession
+139,USPB42B,-105.6433,,25.070282,6.3,20.5,3.5,Ignimbrita eutaxitica,2330.01,2.90,Pyroclastic succession
+140,USPB43,-105.6433,,25.070282,10.8,25.7,5.5,Ignimbrita eutaxitica,2330.01,4.37,Pyroclastic succession
+6,USP4a,-105.5808,,25.116132,4.20,14.20,4.80,Ignimbrite,2330.01,2.17,Pyroclastic succession
+7,USP4b,-105.5808,,25.116132,3.80,13.40,8.70,Ignimbrite,2330.01,2.35,Pyroclastic succession
+8,USP5a,-105.5994,,25.083142,7.80,28.60,5.00,Ignimbrite,2330.01,3.84,Pyroclastic succession
+9,USP5b,-105.5994,,25.083142,8.70,29.80,5.30,Ignimbrite,2330.01,4.14,Pyroclastic succession
+10,USP6,-105.6129,,25.037211,7.20,27.10,3.80,Ignimbrite,2330.01,3.52,Pyroclastic succession
+11,USP7,-105.6129,,25.037211,9.10,25.60,4.70,Ignimbrite,2330.01,3.93,Pyroclastic succession
+12,USP8a,-105.6333,,25.079533,8.80,26.60,5.00,Ignimbrite,2330.01,3.94,Pyroclastic succession
+13,USP8b,-105.5980,,25.091907,7.30,29.50,5.20,Ignimbrite,2330.01,3.80,Pyroclastic succession
+14,USP9a,-105.5980,,25.091907,4.50,12.80,2.00,Ignimbrite,2330.01,1.92,Pyroclastic succession
+26,USP17,-105.4493,,25.178766,4.60,25.00,4.20,Ignimbrite,2330.01,2.85,Pyroclastic succession
+38,USP27,-105.1385,,25.212806,5.60,18.90,5.10,Ignimbrite,2330.01,2.78,Pyroclastic succession
+40,USP29,-105.3512,,25.060562,4.50,11.70,3.20,Ignimbrite,2330.01,1.96,Pyroclastic succession
+57,USP43,-105.7890,,25.054941,3.60,19.70,4.60,Ignimbrite,2330.01,2.35,Pyroclastic succession
+66,USP52,-105.4879,,25.004912,2.80,14.80,2.10,Ignimbrite,2330.01,1.67,Pyroclastic succession
+78,USP64,-105.3972,,24.773852,6.90,19.40,2.40,Ignimbrite,2330.01,2.88,Pyroclastic succession
+79,USP65,-105.3727,,24.797376,8.60,26.50,4.90,Ignimbrite,2330.01,3.89,Pyroclastic succession
+92,USP77,-105.2784,,25.005631,7.40,15.30,3.20,Ignimbrite,2330.01,2.81,Pyroclastic succession
+95,USP80,-105.6346,,24.870604,4.40,19.00,5.10,Ignimbrite,2330.01,2.52,Pyroclastic succession
+96,USP81,-105.5688,,24.933174,5.30,20.60,5.30,Ignimbrite,2330.10,2.83,Pyroclastic succession
+138,USPB42,-105.6433,,25.070282,8.9,18.1,3.5,Ignimbrite,2330.01,3.34,Pyroclastic succession
+153,USPB55,-105.5932,,25.098835,8.1,32.7,6.2,Ignimbrite,2330.01,4.25,Pyroclastic succession
+154,USPB56,-105.5932,,25.098835,8.6,31.3,5.6,Ignimbrite,2330.01,4.23,Pyroclastic succession
+155,USPB57,-105.5932,,25.098835,8.4,31.6,6,Ignimbrite,2330.01,4.23,Pyroclastic succession
+168,USPB70,-105.1908,,24.936191,7.3,22.8,3.8,Ignimbrite,2330.01,3.29,Pyroclastic succession
+169,USPB71,-105.1908,,24.936191,6.2,23.2,4.1,Ignimbrite,2330.01,3.09,Pyroclastic succession
+170,USPB72,-105.1908,,24.936191,5.6,25,4.8,Ignimbrite,2330.01,3.12,Pyroclastic succession
+180,USPB82,-105.2787,,25.275257,7.4,16.5,5.4,Ignimbrite,2330.01,3.06,Pyroclastic succession
+181,USPB83,-105.2787,,25.275257,6.6,19.7,5.9,Ignimbrite,2330.01,3.12,Pyroclastic succession
+182,USPB83B,-105.2787,,25.275257,4.8,18.3,5,Ignimbrite,2330.01,2.56,Pyroclastic succession
+3,USP2,-105.3032,,25.059749,8.40,16.80,4.20,Lithic ignimbrite,2330.01,3.21,Pyroclastic succession
+4,USP2b,-105.3032,,25.059749,15.40,24.40,4.80,Lithic ignimbrite,2330.01,5.26,Pyroclastic succession
+5,USP3,-105.3032,,25.059650,8.70,27.10,4.10,Lithic ignimbrite,2330.01,3.88,Pyroclastic succession
+32,USP22,-105.1622,,25.178275,9.50,27.30,3.90,Lithic ignimbrite,2330.01,4.05,Pyroclastic succession
+112,USPB16,-105.4487,,25.222402,8.5,36.1,1.9,Lithic ignimbrite,2330.01,4.19,Pyroclastic succession
+113,USPB17,-105.4487,,25.222402,5.2,40.7,1.7,Lithic ignimbrite,2330.01,3.72,Pyroclastic succession
+114,USPB18,-105.4487,,25.222402,8.9,23.5,5.2,Lithic ignimbrite,2330.01,3.80,Pyroclastic succession
+31,USP21,-105.3143,,24.990784,5.50,29.10,6.10,Rhyolite,2438.90,3.61,Pyroclastic succession
+1,USP1a,-105.3018,,25.061333,7.40,21.50,2.20,Sandstone,2550.65,3.40,Pyroclastic succession
+2,USP1b,-105.3018,,25.061333,15.10,21.00,4.20,Sandstone,2550.65,5.41,Pyroclastic succession
+34,USP24a,-105.1485,,25.203468,9.00,20.90,7.80,Sandstone,2550.65,4.24,Pyroclastic succession
+55,USP41,-105.8104,,25.052550,8.90,27.20,5.20,Reomophic ignimbrite,2330.01,4.02,Rhyolite lavas and domes
+22,USP14a,-105.5794,,25.238755,6.00,16.30,5.40,Rhyolite,2438.90,2.87,Rhyolite lavas and domes
+23,USP14b,-105.5938,,25.249715,6.90,15.00,5.50,Rhyolite,2438.90,3.01,Rhyolite lavas and domes
+24,USP15,-105.5938,,25.249715,5.40,12.90,4.80,Rhyolite,2438.90,2.47,Rhyolite lavas and domes
+28,USP18b,-105.3203,,25.241576,6.10,14.00,4.00,Rhyolite,2438.90,2.63,Rhyolite lavas and domes
+29,USP19,-105.3203,,25.241576,4.40,15.10,4.70,Rhyolite,2438.90,2.36,Rhyolite lavas and domes
+35,USP24b,-105.1373,,25.216329,9.50,16.40,6.80,Rhyolite,2438.90,3.81,Rhyolite lavas and domes
+36,USP25,-105.1373,,25.216329,12.30,25.80,8.90,Rhyolite,2438.90,5.22,Rhyolite lavas and domes
+60,USP46,-105.2882,,25.129803,5.10,11.30,3.10,Rhyolite,2438.90,2.15,Rhyolite lavas and domes
+61,USP47,-105.3201,,25.246667,3.16,8.50,2.70,Rhyolite,2438.90,1.49,Rhyolite lavas and domes
+111,USPB15,-105.4482,,25.221612,4.7,14.5,4.1,Rhyolite,2438.90,2.34,Rhyolite lavas and domes
+126,USPB30,-105.2849,,25.128143,5.3,16.7,4.7,Rhyolite,2438.90,2.67,Rhyolite lavas and domes
+127,USPB31,-105.2849,,25.128143,3.9,14.9,3.9,Rhyolite,2438.90,2.17,Rhyolite lavas and domes
+128,USPB32,-105.2849,,25.128143,4.3,18.2,5.9,Rhyolite,2438.90,2.64,Rhyolite lavas and domes
+132,USPB36,-105.6740,,25.444766,11.6,20.8,3.5,Rhyolite,2438.90,4.29,Rhyolite lavas and domes
+133,USPB37,-105.6740,,25.444766,7.8,18.4,3.7,Rhyolite,2438.90,3.27,Rhyolite lavas and domes
+134,USPB38,-105.6740,,25.444766,10,17.5,3.6,Rhyolite,2438.90,3.72,Rhyolite lavas and domes
+147,USPB50,-105.8094,,25.058869,8,30.7,5.8,Rhyolite,2438.90,4.27,Rhyolite lavas and domes
+148,USPB51,-105.8094,,25.058869,8.7,35.5,6.3,Rhyolite,2438.90,4.77,Rhyolite lavas and domes
+149,USPB52,-105.8094,,25.058869,9.9,36.6,6.2,Rhyolite,2438.90,5.11,Rhyolite lavas and domes
+56,USP42,-105.8037,,25.060255,12.40,35.60,6.30,Vitrophyre,2291.70,5.30,Rhyolite lavas and domes
+186,USPB87,-105.2382,,24.701540,8.2,29.6,6.3,Aluvial deposit,2550.65,4.48,Papasquiaro Fm.
+187,USPB88,-105.2382,,24.701540,7.2,29.2,5.1,Aluvial deposit,2550.65,4.11,Papasquiaro Fm.
+188,USPB89,-105.2382,,24.701540,7.8,25.8,5.5,Aluvial deposit,2550.65,4.07,Papasquiaro Fm.
+41,USP30,-105.3927,,25.037650,4.40,12.10,3.00,Conglomerate,2367.70,1.97,Papasquiaro Fm.
+42,USP31,-105.3924,,25.038147,2.50,5.60,2.40,Conglomerate,2367.70,1.10,Papasquiaro Fm.
+46,USP34,-105.4438,,25.041434,3.10,8.70,1.90,Conglomerate,2367.70,1.38,Papasquiaro Fm.
+17,USP10b,-105.4548,,25.052923,5.20,13.80,3.40,Conglomerates and sandstones,2367.70,2.29,Papasquiaro Fm.
+18,USP11a,-105.4548,,25.052923,4.40,8.90,2.10,Conglomerates and sandstones,2367.70,1.70,Papasquiaro Fm.
+39,USP28,-104.7776,,24.536606,5.70,21.40,4.30,Conglomerates and sandstones,2367.70,2.94,Papasquiaro Fm.
+30,USP20,-105.3761,,24.935569,6.00,23.20,4.70,Sandstone,2550.65,3.39,Papasquiaro Fm.
+213,DM17,-105.8459,,23.462398,5.40,21.70,3.70,Granite,2544.30,3.05,SMO Granites
+214,DM18,-105.8390,,23.442663,7.00,19.40,4.20,Granite,2544.30,3.33,SMO Granites
+215,DM19,-105.8904,,23.416553,7.70,29.50,5.90,Granite,2544.30,4.31,SMO Granites
+218,DM22A,-104.8663,,21.122954,3.10,14.20,2.80,Granite,2544.30,1.92,SMO Granites
+219,DM22B,-104.8663,,21.122954,3.60,15.30,3.00,Granite,2544.30,2.13,SMO Granites
+221,DM23,-104.1890,,21.013124,3.90,14.40,3.90,Granite,2544.30,2.23,SMO Granites
+223,UPB1,-101.6995,,22.523681,5.9,11,3.6,Granite,2544.30,2.46,SMO Granites
+224,UPB2,-101.6995,,22.523681,6.1,10.2,4.5,Granite,2544.30,2.54,SMO Granites
+225,UPB3,-101.6995,,22.523681,8.1,9.9,4.4,Granite,2544.30,3.00,SMO Granites
+216,DM20,-105.9854,,23.326525,7.50,12.70,4.80,Granodiorite,2589.42,3.12,SMO Granites
+217,DM21,-106.1076,,23.233354,4.30,11.60,2.50,Granodiorite,2589.42,2.05,SMO Granites
+226,ULT1,-102.1165,,22.762317,3.8,22.6,4.4,Granodiorite,2589.42,2.83,SMO Granites
+227,ULT2,-102.1165,,22.762317,6,21.9,4.2,Granodiorite,2589.42,3.31,SMO Granites
+228,ULT3,-102.1165,,22.762317,5.3,30.8,4.8,Granodiorite,2589.42,3.78,SMO Granites
+199,DM4,-104.8987,,23.973902,4.80,16.30,6.10,ASh flow tuff,2461.33,2.67,SMO Ignimbrites
+200,DM5,-105.0222,,23.961176,5.60,22.40,5.40,Ash flow tuff,2461.33,3.19,SMO Ignimbrites
+201,DM6,-105.1446,,23.921669,4.50,17.90,6.70,Ash flow tuff,2461.33,2.76,SMO Ignimbrites
+204,DM8,-105.2771,,23.845559,3.50,12.10,3.30,Ash flow tuff,2461.33,1.87,SMO Ignimbrites
+205,DM9,-105.3095,,23.826831,5.80,13.80,5.00,Crystal rich ignimbrite,2330.01,2.52,SMO Ignimbrites
+196,DM2A,-104.7143,,24.061058,4.30,16.00,5.40,Ignimbrite,2330.01,2.35,SMO Ignimbrites
+198,DM3,-104.7838,,23.999592,6.10,18.50,5.20,Ignimbrite,2330.01,2.88,SMO Ignimbrites
+208,DM12,-105.5594,,23.737347,5.10,14.10,3.90,Ignimbrite,2330.01,2.29,SMO Ignimbrites
+209,DM13,-105.6610,,23.615358,4.50,13.90,4.80,Ignimbrite,2330.01,2.22,SMO Ignimbrites
+220,DM24,-104.2248,,21.020580,3.00,11.30,3.40,Ignimbrite,2330.01,1.62,SMO Ignimbrites
+222,USP76,-105.2900,,24.006385,6.50,24.50,4.50,Ignimbrite,2330.01,3.27,SMO Ignimbrites
+197,DM2B,-104.7143,,24.061058,6.00,15.50,5.30,Lithic ignimbrite,2330.01,2.69,SMO Ignimbrites
+212,DM16,-105.8217,,23.486097,6.30,17.60,9.40,Lithic ignimbrite,2330.01,3.21,SMO Ignimbrites
+211,DM15,-105.8100,,23.506030,2.30,7.20,2.60,Sandstone,2550.70,1.26,SMO Ignimbrites
+210,DM14,-105.7704,,23.531474,0.90,2.40,1.60,Felsic lava,2438.90,0.49,SMO Rhyolites
+195,DM1,-104.6917,,24.067404,7.20,18.50,6.40,Rhyolite,2438.90,3.37,SMO Rhyolites
+202,DM7A,-105.1954,,23.870051,9.90,36.10,4.60,Rhyolite,2438.90,4.94,SMO Rhyolites
+203,DM7B,-105.1954,,23.870051,6.80,35.40,8.80,Rhyolite,2438.90,4.54,SMO Rhyolites
+206,DM10,-105.5128,,23.759861,4.50,12.50,5.40,Rhyolite,2438.90,2.28,SMO Rhyolites
+207,DM11,-105.5744,,23.847715,3.70,12.50,4.10,Rhyolite,2438.90,1.99,SMO Rhyolites
+229,UEs1,-104.6436,,24.774178,3.4,5.8,3.7,Schist,2700,1.62,Santiaguillo Schist
+230,UEs2,-104.6436,,24.774178,2.9,2.9,1.2,Schist,2700,1.06,Santiaguillo Schist
+231,UEs3,-104.6436,,24.774178,3.8,6,1,Schist,2700,1.49,Santiaguillo Schist
