@@ -8,4 +8,7 @@ En este repositorio se encuentan los materias que se trabajen durante el semestr
 Dentro de la carpeta de datasets se encuentran archivos de terminación .csv. A continuación se presenta una breve descripción (que iremos construyendo entre todxs).
 
 **SNMX_sismos.csv** 
-**calor_geotermico.csv** es el dataset conducido por Luca Ferrari 
+
+**calor_geotermico.csv** 
+
+
