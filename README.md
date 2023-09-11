@@ -62,5 +62,8 @@ Estos datos son de una práctica de campo, son datos de resistividad en Playa Az
 - Contexto metodológico de extracción de datos
 
 **solar_flares.csv**
-
+Como su nombre lo dice, son datos de eyecciones solares obtenidas del National Oceanic and Atmospheric Administration () de septiembre del año 2022. Lo interesante de este conjunto es la dimensionalidad en la que se encuentran los datos y compararlos con las tendencias y frecuencias que puede tener el sol. Además, puede dar pie a un análisis y abstracción de la representatividad subjetiva de los datos que obtenemos con los que podrían llegar a existir.
+- Variables y datos
+- Inspección/indagación sobre la dimensionalidad de datos
+- Conexto metodológico de extracción de datos.
 
