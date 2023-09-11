@@ -49,8 +49,18 @@ Qué maravilla poder tener datos sobre simicidad en Marte del 2020 (). Este conj
 - Indagación en contexto metodológico de extracción de datos
 
 **neas_nasa.csv**
-
+Éste es un trocito de los datos de la NASA () sobre observaciones de asteroides cercanos a la tierra. Tiene variables muy interesantes pero que se encuentran en dimensionalidades distintas y algunos atributos necesitan más manipulación de datos. 
+- Variables y tipos
+- Diccioanrio de datos
+- Separabilidad de columnas-atributos
+- Contexto de metodología sobre NEAS
 
 **playa_azul.csv**
+Estos datos son de una práctica de campo, son datos de resistividad en Playa Azul. Más información sobre éstos y e investigación sobre resistividad será necesaria para llevar a cabo el proyecto.
+- Variables y tipos
+- Diccionario contextual de datos
+- Contexto metodológico de extracción de datos
 
 **solar_flares.csv**
+
+
