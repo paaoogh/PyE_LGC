@@ -28,7 +28,7 @@ Este proyecto de Luca Ferrari es sobre los volcanes recientes de la [Sierra Madr
 - Indagación sobre posibilidades de muestreo
 
 **datoMeteo_UMAR - DatosMet_May_Jun_2022.csv**
-Este catálogo de la [Universidad del Mar en Puerto Ángel](https://www.seis-insight.eu/static/mqs-catalogs/v2/mars-seismic-catalogue-v2-20200401.pdf) durante el huracán Agatha de mayo 2022. Lo más curioso de este conjunto es que depende fuertemente del contexto metodológico y diccionario de datos.
+Este catálogo de la [Universidad del Mar en Puerto Ángel](https://www.mareografico.unam.mx/portal/index.php?page=Estaciones) durante el huracán Agatha de mayo 2022. Lo más curioso de este conjunto es que depende fuertemente del contexto metodológico y diccionario de datos.
 - Variables y tipos
 - Diccionario de datos
 - Contexto de datos
